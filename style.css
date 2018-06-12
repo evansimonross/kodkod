@@ -1,0 +1,17 @@
+body{
+    background-color: #444;
+    color: #aaffff;
+    font-family: sans-serif;
+    width: 50%;
+    margin:auto;
+}
+
+h1{
+    font-size: xx-large;
+    margin-bottom: 25px;
+}
+
+p{
+    font-size: medium;
+    line-height: 1.5em;
+}
